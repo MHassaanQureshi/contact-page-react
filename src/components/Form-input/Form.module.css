@@ -1,0 +1,22 @@
+.form_container{
+    width: 480px;
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-top: 30px;
+ }
+ .form_container input{
+    width: 90%;
+    height: 20px;
+    padding: 10px;
+
+ }
+ .form_container label{
+    position:absolute;
+    margin-top: -13px;
+    background: white;
+    margin-left: -350px;
+    font-weight: 600;
+ }

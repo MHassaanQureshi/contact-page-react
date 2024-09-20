@@ -1,0 +1,24 @@
+.Navigation{
+    padding: 0px 8px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    
+    margin-right: 60px;
+    font-size: 24px;
+    
+    gap: 20px;
+}
+  
+.logo:hover{
+    cursor: pointer;
+}
+
